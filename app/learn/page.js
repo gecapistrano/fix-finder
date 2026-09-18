@@ -18,7 +18,7 @@ const pillWhite =
   "inline-flex items-center justify-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-semibold text-[#333] hover:bg-white/90";
 
 /**
- * Consumer Learning Hub mockup, aligned to the DECP Knowledge Hub layout.
+ * Consumer Learning Hub — lessons sit beside the scanner as their own small site.
  */
 
 export default function LearningHubPage() {

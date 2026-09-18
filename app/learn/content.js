@@ -1,9 +1,8 @@
 /**
- * Learning Hub content, shaped like DECP / AEM modules on
- * next.brand-adhesives.com (RAQN platform).
+ * Learning Hub content.
  *
  * MODULES is the original lesson content. Layout chrome (hero, pathways,
- * story, library, support) mirrors the Knowledge Hub page structure.
+ * story, library, support) is a small companion site beside the scanner.
  */
 
 export const HERO = {
@@ -23,10 +22,10 @@ export const STORY = {
 };
 
 export const SIGNUP = {
-  title: "Sign up for easy access to our expert resources",
-  body: "Save your details once to come back to Fix Finder, the lessons, and community stories any time.",
-  cta: "Sign up",
-  href: "https://next.brand-adhesives.com/ph/en.html",
+  title: "Share a repair with the community",
+  body: "A real before-and-after helps someone else try a fix instead of throwing the item away.",
+  cta: "Share your story",
+  href: "/community",
 };
 
 export const LIBRARY = {
@@ -342,5 +341,5 @@ export const FIX_FINDER_CTA = {
   body: "Take a photo of the damage. Fix Finder tells you whether Universal Super Glue can help — and how much to use.",
   cta: "Let's fix it!",
   href: "/#upload",
-  image: "/products/super-glue-universal.png",
+  image: "/products/adhesive.svg",
 };
