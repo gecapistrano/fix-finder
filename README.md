@@ -12,6 +12,8 @@ If the answer is no, it says so. That was the hard part.
 > logos, product photography, and site chrome have been removed here. The
 > engineering is unchanged.
 
+**Live demo:** [https://fix-finder-gamma.vercel.app/](https://fix-finder-gamma.vercel.app/)
+
 ---
 
 ## Why it is not just a wrapper around an image model
